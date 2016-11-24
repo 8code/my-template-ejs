@@ -1,0 +1,10 @@
+{
+  "paths": {
+    "srcDir"        : "./src/",
+    "dstDir"        : "./dist/",
+    "template"      : "./src/ejs/_template.ejs",
+    "setting_lang"  : "./project_settings/languages.json",
+    "setting_pages" : "./project_settings/pages.json"
+  },
+  "port": "8500"
+}
